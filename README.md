@@ -1,2 +1,2 @@
-# taskManager-node
-A Back end API for a task manager application with Node.js
+# tNode.js-API-Collection
+A Back end API for a collection of applicationa with Node.js
